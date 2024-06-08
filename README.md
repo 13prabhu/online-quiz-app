@@ -1,5 +1,13 @@
 # online-quiz-app
-##Table of Contents
+## Table of Contents
+- [Description](#description)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Acknowledgements](#acknowledgements)
 Description
 Features
 Technologies Used
