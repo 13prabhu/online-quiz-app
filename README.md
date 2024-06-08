@@ -3,16 +3,8 @@
 - [Description](#description)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
-Description
-Features
-Technologies Used
-Usage
-###Description
+Description(###descrption)
 Welcome to the Interactive Quiz App, a dynamic and engaging platform designed to test and enhance your knowledge across various topics. This web-based application, built with HTML, CSS, and JavaScript, offers a seamless and fun quiz experience for users of all ages.
 
 ###Features
